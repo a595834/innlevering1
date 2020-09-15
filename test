@@ -1,0 +1,12 @@
+package Innlevering27;
+
+public class OppgaveA {
+	
+	public static void skrivUt (int[] tabell) {
+	
+	int[] heltall = {1, 2, 3, 4, 5};
+	heltall[1] = 5;
+	System.out.println(heltall[5]);
+	
+	}
+}
